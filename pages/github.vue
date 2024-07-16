@@ -62,7 +62,7 @@ export default {
     },
     async getRepos() {
       try {
-        const reposResponse = await axios.get("https://api.github.com/users/DavisuaCoder/repos");
+        const reposResponse = await axios.get("https://api.github.com/users/christiantesen/repos");
         const repos = reposResponse.data
           .filter(repo => !repo.all)
           .sort((repo1, repo2) => repo2.stargazers_count - repo1.stargazers_count)
