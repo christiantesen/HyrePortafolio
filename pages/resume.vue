@@ -85,7 +85,7 @@
       </ol>
       <div class="download-button-container">
         <a
-          href="/Files/DavidAlvarezPerales-CV.pdf"
+          href="/files/ChristianTesenBecerra-CV.pdf"
           aria-label="Download Resume"
           class="cta"
         >
@@ -104,43 +104,31 @@
 const experience = [
   {
     title: 'Software Engineer',
-    date: 'Dec 2022 ➔ Currently',
-    company: 'Dars Telecom',
-    description:'Translated business needs to solutions, collaborated on Java projects, led innovation, and improved software efficiency with Python.',
-    technologies: ['Python', 'Java', 'JPA', 'CI/CD', 'Bash', 'Linux/Unix','VMWare', 'Oracle'],
+    date: '06/2023 ➔ 12/2023',
+    company: 'AFISCA S.A.C.',
+    description:'Desarrollé módulos eficientes para PDF y optimicé flujos de trabajo de Kardex. Mantuve y mejoré la red interna y bases de datos, asegurando rendimiento y estabilidad. Contribuí a la innovación tecnológica y validé soluciones con pruebas exhaustivas.',
+    technologies: ['Python', 'FastAPI', 'Flutter', 'Bash', 'Windows Server','Git', 'MySQL'],
   },
   {
-    title: 'Full Stack Developer (VueJS/NodeJS)',
-    date: 'Jan 2023 ➔ Currently',
-    company: 'UC3M University',
-    description: 'Developing SurgeryAI-Models project with VueJS and Node.js. Led requirement gathering, specifications, and mockup design for efficient development.',
-    technologies: ['VueJS', 'NodeJS', 'ExpressJS', 'ArangoDB', 'Docker'],
+    title: 'Full Stack Developer (Flutter/FastAPI)',
+    date: '11/2022 ➔ 05/2023',
+    company: 'NEO DETER DE PERU S.A.C',
+    description: 'Desarrollé aplicaciones móviles en Android con Flutter, enfocado en optimizar el rendimiento y la experiencia del usuario. Implementé microservicios en FastAPI para aplicaciones multiplataforma, mejorando la escalabilidad del sistema. Mantuve y optimicé bases de datos para asegurar integridad y rendimiento óptimo de la información, implementando medidas para garantizar la disponibilidad y consistencia de los datos críticos.',
+    technologies: ['Flutter', 'Node.js', 'Dart', 'MySQL', 'Git'],
   },
   {
-    title: 'Project Management Officer',
-    date: 'Jun 2022 ➔ Sep 2022',
-    company: 'Accenture',
-    description: 'Oversaw project tasks, engaged stakeholders, and identified risks in control meetings',
-    technologies: ['Excel', 'PowertPoint', 'Power BI'],
-  },
-  {
-    title: 'Full Stack Developer (VueJS/ExpressJS)',
-    date: 'Jun 2021 ➔ Jun 2022',
-    company: 'Automoviles Aerolan',
-    description: 'Designed website with NodeJS, VueJS, and ArangoDB, creating a secure and scalable system architecture for web applications.',
-    technologies: ['VueJS', 'NodeJS', 'ExpressJS', 'MongoDB'],
+    title: 'IT Support and Maintenance Technician',
+    date: '01/2014 ➔ 03/2014 | 01/2016 ➔ 03/2016',
+    company: 'PERUPLAST S.A',
+    description: 'Lideré mantenimiento preventivo de hardware para garantizar disponibilidad continua. Proporcioné soporte técnico para configuración y optimización de aplicaciones y dispositivos. Instalé y actualicé sistemas operativos y aplicaciones, asegurando seguridad y actualización constante. Implementé backups regulares y recuperación de datos para mantener integridad y disponibilidad de información crítica. Capacité a empleados en el uso efectivo de sistemas y software, mejorando eficiencia operativa y adopción tecnológica. Implementé herramientas de monitoreo para optimizar rendimiento y recursos.',
+    technologies: ['Excel', 'PowertPoint', 'SQL Server', 'C#', 'Windows Server', 'VMware', 'Cisco', 'Linux', 'Git'],
   },
 ] 
 const education = [
   {
-    title: 'Dual Bachelor of Computer Engineering and Business Administration',
-    date: 'Sep 2018 ➔ Jun 2023',
-    university: 'UC3M University'
-  },
-  {
-    title: 'Master in Agile Organizations and Digital Transformation',
-    date: 'Sep 2022 ➔ Sep 2023',
-    university: 'Camilo José Cela University'
+    title: 'Ingeniería Informática',
+    date: '08/2016 ➔ Actualidad',
+    university: 'UNIVERISDAD RICARDO PALMA'
   }
 ]
 </script>
