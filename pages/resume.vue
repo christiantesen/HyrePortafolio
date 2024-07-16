@@ -85,7 +85,7 @@
       </ol>
       <div class="download-button-container">
         <a
-          href="/files/ChristianTesenBecerra-CV.pdf"
+          href="https://github.com/christiantesen/christiantesen/blob/main/ChristianTesenBecerra-CV.pdf"
           aria-label="Download Resume"
           class="cta"
         >
