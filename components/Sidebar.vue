@@ -14,8 +14,8 @@ function toggleMenu() {
       </figure>
 
       <div class="info-content">
-        <h1 class="name" title="David Alvarez">
-          David Álvarez Perales
+        <h1 class="name" title="Christián Tesén">
+          Christián Tesén Becerra
         </h1>
 
         <p class="title text-center xl:block flex items-center justify-center gap-1">
@@ -35,35 +35,35 @@ function toggleMenu() {
       <div class="separator" />
 
       <ul class="contacts-list">
-        <a href="mailto:david.alvarez.perales99@gmail.com" class="contact-item">
+        <a href="mailto:ctesenb@gmail.com" class="contact-item">
           <div class="icon-box">
             <ion-icon name="mail-outline"></ion-icon>
           </div>
           <div class="contact-info">
             <p class="contact-title">Email</p>
-            <span class="contact-link">david.alvarez.perales99@gmail.com</span>
+            <span class="contact-link">ctesenb@gmail.com</span>
           </div>
         </a>
 
         <!-- Phone -->
-        <a href="tel:+34689571913" class="contact-item">
+        <a href="tel:+51957308626" class="contact-item">
           <div class="icon-box">
             <ion-icon name="phone-portrait-outline"></ion-icon>
           </div>
           <div class="contact-info">
             <p class="contact-title">Phone</p>
-            <span class="contact-link">689 571 913</span>
+            <span class="contact-link">957 308 626</span>
           </div>
         </a>
 
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/david-alvarez-perales/" class="contact-item" target="_blank">
+        <a href="https://www.linkedin.com/in/christian-tesen-becerra/" class="contact-item" target="_blank">
           <div class="icon-box">
             <ion-icon name="logo-linkedin" />
           </div>
           <div class="contact-info">
             <p class="contact-title">Linkedin</p>
-            <span class="contact-link">David Álvarez Perales</span>
+            <span class="contact-link">Christián Tesén Becerra</span>
           </div>
         </a>
 
@@ -77,7 +77,7 @@ function toggleMenu() {
               Location
             </p>
 
-            <address>Madrid, Spain</address>
+            <address>Lima, Perú</address>
           </div>
         </li>
       </ul>
