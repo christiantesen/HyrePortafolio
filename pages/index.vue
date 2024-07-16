@@ -17,7 +17,7 @@
       <section class="techs">
         <ul class="grid-techs">
           <li class="techs-item">
-            <img src="/images/techs/python-logo.png" alt="Python" data-experience="3">
+            <img src="/images/techs/Python-logo.png" alt="Python" data-experience="3">
             <div class="tech-tooltip">
               <p>+3 years of experience</p>
             </div>
