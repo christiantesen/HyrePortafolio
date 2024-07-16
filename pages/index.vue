@@ -53,7 +53,7 @@
             </div>
           </li>
           <li class="techs-item">
-            <img src="/images/techs/aws-logo.webp" alt="Company" data-experience="1">
+            <img src="/images/techs/aws-logo.png" alt="Company" data-experience="1">
             <div class="tech-tooltip">
               <p>+1 years of experience</p>
             </div>
