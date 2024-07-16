@@ -17,49 +17,49 @@
       <section class="techs">
         <ul class="grid-techs">
           <li class="techs-item">
-            <img src="/images/techs/Python-logo.png" alt="Python" data-experience="5">
-            <div class="tech-tooltip">
-              <p>+4 years of experience</p>
-            </div>
-          </li>
-          <li class="techs-item">
-            <img src="/images/techs/java-logo.png" alt="Company">
-            <div class="tech-tooltip">
-              <p>+2 years of experience</p>
-            </div>
-          </li>
-          <li class="techs-item">
-            <img src="/images/techs/node-logo.png" alt="Company">
+            <img src="/images/techs/python-logo.png" alt="Python" data-experience="3">
             <div class="tech-tooltip">
               <p>+3 years of experience</p>
             </div>
           </li>
           <li class="techs-item">
-            <img src="/images/techs/vue-logo.png" alt="Company">
-            <div class="tech-tooltip">
-              <p>+3 years of experience</p>
-            </div>
-          </li>
-          <li class="techs-item">
-            <img src="/images/techs/javascript-logo.png" alt="Company">
-            <div class="tech-tooltip">
-              <p>+4 years of experience</p>
-            </div>
-          </li>
-          <li class="techs-item">
-            <img src="/images/techs/linux-logo.png" alt="Company">
+            <img src="/images/techs/java-logo.png" alt="Company" data-experience="2">
             <div class="tech-tooltip">
               <p>+2 years of experience</p>
             </div>
           </li>
           <li class="techs-item">
-            <img src="/images/techs/docker-logo.webp" alt="Company">
+            <img src="/images/techs/node-logo.png" alt="Company" data-experience="2">
+            <div class="tech-tooltip">
+              <p>+2 years of experience</p>
+            </div>
+          </li>
+          <li class="techs-item">
+            <img src="/images/techs/fastapi-logo.svg" alt="Company" data-experience="4">
+            <div class="tech-tooltip">
+              <p>+4 years of experience</p>
+            </div>
+          </li>
+          <li class="techs-item">
+            <img src="/images/techs/javascript-logo.png" alt="Company" data-experience="2">
+            <div class="tech-tooltip">
+              <p>+2 years of experience</p>
+            </div>
+          </li>
+          <li class="techs-item">
+            <img src="/images/techs/linux-logo.png" alt="Company" data-experience="1">
             <div class="tech-tooltip">
               <p>+1 years of experience</p>
             </div>
           </li>
           <li class="techs-item">
-            <img src="/images/techs/gcp-logo-cloud.webp" alt="Company">
+            <img src="/images/techs/aws-logo.webp" alt="Company" data-experience="1">
+            <div class="tech-tooltip">
+              <p>+1 years of experience</p>
+            </div>
+          </li>
+          <li class="techs-item">
+            <img src="/images/techs/gcp-logo-cloud.webp" alt="Company" data-experience="1">
             <div class="tech-tooltip">
               <p>+1 years of experience</p>
             </div>

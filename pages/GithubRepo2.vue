@@ -61,7 +61,7 @@ export default {
   methods: {
     loadRepositoryImage() {
       const repositoryName = this.repository.name;
-      const repositoryImageURL = `/images/projects/${repositoryName}.jpg`;
+      const repositoryImageURL = `/images/projects/${repositoryName}.png`;
 
       const img = new Image();
       img.src = repositoryImageURL;
