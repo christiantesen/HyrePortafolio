@@ -6,10 +6,10 @@ useHead({
   htmlAttrs: {
     lang: locale,
   },
-  titleTemplate: 'David Alvarez Perales',
+  titleTemplate: 'Christián Tesén Becerra',
   meta: [
       { charset: 'utf-8' },
-      { name: 'description', content: 'Personal site about David Alvarez Perales.' },
+      { name: 'description', content: 'Personal site about Christián Tesén Becerra.' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
     ],
   link: [
