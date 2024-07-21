@@ -3,7 +3,7 @@
     <article id="about" class="about active" data-page="about">
       <header>
         <h2 class="h2 article-title">
-          Profesional experimentado en el sector tecnológico con un historial probado de éxito como Arquitecto de Soluciones. Poseyendo sólidas habilidades de pensamiento analítico y toma de decisiones, sobresalgo al abordar desafíos complejos. Proactivo y diligente, busco continuamente oportunidades de crecimiento y me mantengo actualizado sobre las tendencias emergentes. Mi compromiso de estar a la vanguardia de la industria me permite entregar soluciones innovadoras. Estoy ansioso por unirme a un equipo dinámico, contribuir de manera significativa e impulsar el crecimiento del negocio.
+          {{ $t('pageTitles.about') }}
         </h2>
       </header>
 
@@ -19,49 +19,49 @@
           <li class="techs-item">
             <img src="/images/techs/Python-logo.png" alt="Python" data-experience="3">
             <div class="tech-tooltip">
-              <p>+3 years of experience</p>
+              <p>+3 años de experiencia</p>
             </div>
           </li>
           <li class="techs-item">
             <img src="/images/techs/java-logo.png" alt="Company" data-experience="2">
             <div class="tech-tooltip">
-              <p>+2 years of experience</p>
+              <p>+2 años de experiencia</p>
             </div>
           </li>
           <li class="techs-item">
             <img src="/images/techs/node-logo.png" alt="Company" data-experience="2">
             <div class="tech-tooltip">
-              <p>+2 years of experience</p>
+              <p>+2 años de experiencia</p>
             </div>
           </li>
           <li class="techs-item">
             <img src="/images/techs/fastapi-logo.svg" alt="Company" data-experience="4">
             <div class="tech-tooltip">
-              <p>+4 years of experience</p>
+              <p>+4 años de experiencia</p>
             </div>
           </li>
           <li class="techs-item">
             <img src="/images/techs/javascript-logo.png" alt="Company" data-experience="2">
             <div class="tech-tooltip">
-              <p>+2 years of experience</p>
+              <p>+2 años de experiencia</p>
             </div>
           </li>
           <li class="techs-item">
             <img src="/images/techs/linux-logo.png" alt="Company" data-experience="1">
             <div class="tech-tooltip">
-              <p>+1 years of experience</p>
+              <p>+1 años de experiencia</p>
             </div>
           </li>
           <li class="techs-item">
             <img src="/images/techs/aws-logo.png" alt="Company" data-experience="1">
             <div class="tech-tooltip">
-              <p>+1 years of experience</p>
+              <p>+1 años de experiencia</p>
             </div>
           </li>
           <li class="techs-item">
             <img src="/images/techs/gcp-logo-cloud.webp" alt="Company" data-experience="1">
             <div class="tech-tooltip">
-              <p>+1 years of experience</p>
+              <p>+1 años de experiencia</p>
             </div>
           </li>
         </ul>
