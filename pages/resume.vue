@@ -2,7 +2,7 @@
   <article id="resume" class="resume active" data-page="resume">
     <header>
       <h2 class="h2 article-title">
-        {{ $t('pageTitles.resume') }}
+        Resumen
       </h2>
     </header>
 
@@ -11,7 +11,7 @@
         <div class="icon-box">
           <ion-icon name="business-outline"></ion-icon>
         </div>
-        <h3 class="h3">Experience</h3>
+        <h3 class="h3">Experiencia</h3>
       </div>
       <ol class="timeline-list">
         <li class="timeline-item" v-for="job in experience" :key="job.title">
@@ -56,7 +56,7 @@
           <ion-icon name="book-outline"></ion-icon>
         </div>
 
-        <h3 class="h3">Education</h3>
+        <h3 class="h3">Educación</h3>
       </div>
       <ol class="timeline-list">
         <li class="timeline-item" v-for="job in education" :key="job.title">
@@ -89,7 +89,7 @@
           aria-label="Download Resume"
           class="cta"
         >
-          <span>Download Full Resume</span>
+          <span>Descargar CV</span>
           <svg width="13px" height="10px" viewBox="0 0 13 10">
             <path d="M1,5 L11,5"></path>
             <polyline points="8 1 12 5 8 9"></polyline>
