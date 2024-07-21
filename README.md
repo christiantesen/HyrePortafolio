@@ -7,13 +7,13 @@
 - Spanish & English.
 
 ### Demo
-- Check the live version [here](https://david-alvarez-perales.netlify.app/).
+- Check the live version [here](https://hyre-portafolio.netlify.app/).
 
 ---
 
 ### Quick Start
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/DavisuaCoder/DavidPortafolio)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/DavisuaCoder/DavidPortafolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/christiantesen/HyrePortafolio)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/christiantesen/HyrePortafolio)
 
 ---
 
@@ -21,7 +21,7 @@
 
 - Clone this repo:
 ```
-git clone https://github.com/DavisuaCoder/DavidPortafolio.git
+git clone https://github.com/christiantesen/HyrePortafolio.git
 ```
 
 - Install all the dependencies:
@@ -39,4 +39,4 @@ npm run dev
 ---
 
 ### Any bugs?
-- Please kindly to [contact me](https://github.com/DavisuaCoder) or help me to fix the bugs by contributing to this repository. Thank you in advance!
+- Please kindly to [contact me](https://github.com/christiantesen) or help me to fix the bugs by contributing to this repository. Thank you in advance!
