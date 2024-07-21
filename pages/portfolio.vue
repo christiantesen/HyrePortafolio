@@ -60,7 +60,7 @@ function closeItem() {
 
         <li v-for="category in categories" :key="category.id" class="filter-item" @click="changeFilter(category.id)">
           <button :class="{ active: activeCategory === category.id }">
-            {{ locale === 'id_ID' ? category.title?.en : category.title?.id_ID }}
+            {{ locale === 'es' ? category.title?.en : category.title?.id_ID }}
           </button>
         </li>
       </ul>
@@ -68,7 +68,7 @@ function closeItem() {
       <div class="filter-select-box">
         <button :class="{ active: filterMenu }" class="filter-select" @click="filterMenu = !filterMenu">
           <div class="select-value">
-            {{ activeCategory !== 0 ? (locale === 'id_ID' ? activeCategoryName?.en : activeCategoryName?.id_ID) : 'Select Category' }}
+            {{ activeCategory !== 0 ? (locale === 'es' ? activeCategoryName?.en : activeCategoryName?.id_ID) : 'Select Category' }}
           </div>
 
           <div class="select-icon">
@@ -85,7 +85,7 @@ function closeItem() {
 
           <li v-for="category in categories" :key="category.id" class="select-item">
             <button @click="changeFilter(category.id)">
-              {{ locale === 'id_ID' ? category.title?.en : category.title?.id_ID }}
+              {{ locale === 'es' ? category.title?.en : category.title?.id_ID }}
             </button>
           </li>
         </ul>
@@ -105,7 +105,7 @@ function closeItem() {
 
             <h3 class="project-title">{{ project.title }}</h3>
 
-            <p class="project-category">{{ locale === 'id_ID' ? project.category.title?.en : project.category.title?.id_ID }}</p>
+            <p class="project-category">{{ locale === 'es' ? project.category.title?.en : project.category.title?.id_ID }}</p>
 
           </a>
         </li>
@@ -131,10 +131,10 @@ function closeItem() {
             </h4>
 
             <small class="flex items-center justify-start gap-2 text-gray-500">
-              <Icon icon="foundation:calendar" /><span>{{ locale === 'id_ID' ? activeItem.category?.date?.en : activeItem.category?.date?.id_ID }}</span> | <Icon icon="dashicons:category" /><span>{{ locale === 'en' ? activeItem.category?.title?.en : activeItem.category?.title?.id_ID }}</span> | <Icon icon="ri:search-eye-line" /><a :href="activeItem.url" target="_blank">{{ locale === 'en' ? activeItem.desc?.en : activeItem.desc?.id_ID }}</a>
+              <Icon icon="foundation:calendar" /><span>{{ locale === 'es' ? activeItem.category?.date?.en : activeItem.category?.date?.id_ID }}</span> | <Icon icon="dashicons:category" /><span>{{ locale === 'en' ? activeItem.category?.title?.en : activeItem.category?.title?.id_ID }}</span> | <Icon icon="ri:search-eye-line" /><a :href="activeItem.url" target="_blank">{{ locale === 'en' ? activeItem.desc?.en : activeItem.desc?.id_ID }}</a>
             </small>
 
-            <p class="text-justify" v-html="locale === 'id_ID' ? activeItem.content?.en : activeItem.content?.id_ID" />
+            <p class="text-justify" v-html="locale === 'es' ? activeItem.content?.en : activeItem.content?.id_ID" />
           </div>
         </section>
       </div>
