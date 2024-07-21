@@ -20,12 +20,12 @@ function toggleMenu() {
 
         <p class="title text-center xl:block flex items-center justify-center gap-1">
           <span class="xl:after:content-[''] after:content-[',']">Software Engineer</span>
-          <span>Full Stack Developer</span>
+          <span>Back End Developer</span>
         </p>
       </div>
 
       <button class="info_more-btn" @click="isOpen = !isOpen">
-        <span>Show Contacts</span>
+        <span>Mostrar</span>
 
         <ion-icon name="chevron-down" />
       </button>
@@ -40,7 +40,7 @@ function toggleMenu() {
             <ion-icon name="mail-outline"></ion-icon>
           </div>
           <div class="contact-info">
-            <p class="contact-title">Email</p>
+            <p class="contact-title">Correo</p>
             <span class="contact-link">ctesenb@gmail.com</span>
           </div>
         </a>
@@ -51,7 +51,7 @@ function toggleMenu() {
             <ion-icon name="phone-portrait-outline"></ion-icon>
           </div>
           <div class="contact-info">
-            <p class="contact-title">Phone</p>
+            <p class="contact-title">Celular</p>
             <span class="contact-link">957 308 626</span>
           </div>
         </a>
@@ -62,7 +62,7 @@ function toggleMenu() {
             <ion-icon name="logo-linkedin" />
           </div>
           <div class="contact-info">
-            <p class="contact-title">Linkedin</p>
+            <p class="contact-title">LinkedIn</p>
             <span class="contact-link">Christián Tesén Becerra</span>
           </div>
         </a>
@@ -74,10 +74,10 @@ function toggleMenu() {
 
           <div class="contact-info">
             <p class="contact-title">
-              Location
+              Nacionalidad
             </p>
 
-            <address>Lima, Perú</address>
+            <address>Perú</address>
           </div>
         </li>
       </ul>
@@ -85,7 +85,7 @@ function toggleMenu() {
       <div class="separator" />
 
       <ul class="social-list">
-        <LangSwitcher2 />
+        
       </ul>
     </div>
   </aside>

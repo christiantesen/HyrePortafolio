@@ -4,7 +4,7 @@
 - Resume/Portfolio website using Vue (Nuxt 3) extends from [codewithsadee](https://github.com/codewithsadee/vcard-personal-portfolio) and [agcrisbp](https://github.com/agcrisbp/ADResume).
 
 ### i18n
-- Spanish & English.
+- Spanish.
 
 ### Demo
 - Check the live version [here](https://hyre-portafolio.netlify.app/).
